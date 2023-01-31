@@ -13,3 +13,5 @@ Third, you want to go to the main.py file, and add all whitelisted locations. Th
 Lastly, just run the file and boom! The script should be up and running 
 
 
+# Disclaimer 
+This is for education purposes only. Discord may choose to terminate your account for using this script. I am not responsible for anything that may happen. 
