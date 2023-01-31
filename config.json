@@ -1,0 +1,6 @@
+{
+    "X-Super-Properties": "abc",
+    "Authorization": "token-here",
+    "2FA": false,
+    "2FA-Backup-Code": "2fa backup code here"
+}
